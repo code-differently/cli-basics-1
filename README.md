@@ -83,7 +83,7 @@ Type `man file`
 Type `ls`
 
 ### Step 4
-The file 'passwd' contains the answer to the first question in this list. Try the file command on it.
+The file 'passwd' contains the answer to the next question. Try the file command on it.
 
 * What is the file type of 'passwd'
 
